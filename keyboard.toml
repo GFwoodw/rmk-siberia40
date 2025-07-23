@@ -2,7 +2,7 @@
 [keyboard]
 name = "Siberia40"
 product_name = "Siberia40 RMK"
-vendor_id = 0x4s4b
+vendor_id = 0x4S4B
 product_id = 0x0001
 manufacturer = "GFWooD"
 chip = "nrf52840"
