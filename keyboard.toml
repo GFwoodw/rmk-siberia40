@@ -17,7 +17,7 @@ output_pins = ["P1_13", "P1_06", "P1_04", "P1_01", "P1_02", "P1_07", "P0_09", "P
 [layout]
 rows = 4
 cols = 12
-layers = 2
+layers = 3
 keymap = [
     [
         ["Escape", "Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P", "Backspace"],
@@ -54,3 +54,5 @@ keymap = [
 enabled = true
 # vddh has an internal voltage divider
 battery_adc_pin = "vddh"
+adc_divider_measured = 2000
+adc_divider_total = 2806
